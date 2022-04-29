@@ -1,0 +1,65 @@
+.icon {
+  font-size: 1.2rem;
+}
+
+.navIconStyle {
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.navIconStyle:hover {
+  color: black;
+}
+
+.notification-margins {
+  margin-left: -70px;
+}
+
+.notification-image {
+  height: 48px;
+  width: 48px;
+  border-radius: 50px;
+}
+
+.notification-badge {
+  margin-left: -10px;
+  margin-top: 10px;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.navbar-nav > li {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.searchBar {
+  border-radius: 0px;
+  margin-left: 1rem;
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+}
+
+.searchBar:focus-visible {
+  outline: none;
+  background-color: #fafafa;
+  border-color: #e6e6e6;
+}
+
+.faButton {
+  background: #f5f5f5;
+  padding: 0px;
+  border: 1px solid #e6e6e6;
+}
+
+.iconFont {
+  font-size: 20px;
+}

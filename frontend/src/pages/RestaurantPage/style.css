@@ -1,0 +1,34 @@
+.card {
+  margin: 1rem;
+}
+
+.restaurant-image {
+  margin-left: 10px;
+  height: 10rem;
+  width: 10rem;
+}
+
+.follow-btn {
+  width: 10.5rem;
+}
+
+.like-icon {
+  justify-content: end;
+}
+
+.like-image {
+  height: 48px;
+  width: 48px;
+  border-radius: 50px;
+}
+
+.similar-image {
+  height: 60px;
+  width: 60px;
+}
+
+.sticky {
+  position: sticky;
+  top: 50px;
+  align-self: flex-start;
+}

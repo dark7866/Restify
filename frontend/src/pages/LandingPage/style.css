@@ -1,0 +1,43 @@
+.page-header {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.landing-page-image {
+  width: 120%;
+}
+
+.form-container {
+  margin-top: 3rem;
+}
+
+.main-heading {
+  margin-top: 8rem;
+  font-size: 56px;
+  font-weight: 200;
+}
+
+.main-sign-in {
+  height: 56px;
+}
+
+.navbar-nav > li {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.copyright-footer {
+  height: 4.2em;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #faf9f7;
+}
+
+.error-message {
+  color: red;
+}
+
+.textColor {
+  color: #1877f2 !important;
+}
